@@ -1,0 +1,78 @@
+﻿  stdafx.cpp
+  AssetManager.cpp
+  Bird.cpp
+  Collision.cpp
+  FlappyBird.cpp
+  Game.cpp
+  GameOverState.cpp
+C:\Users\Adrian\Desktop\Projekt\FlappyBird\FlappyBird\GameOverState.cpp(39): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+  GameState.cpp
+C:\Users\Adrian\Desktop\Projekt\FlappyBird\FlappyBird\GameState.cpp(97): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Ground.cpp
+C:\Users\Adrian\Desktop\Projekt\FlappyBird\FlappyBird\Ground.cpp(22): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  HUD.cpp
+C:\Users\Adrian\Desktop\Projekt\FlappyBird\FlappyBird\HUD.cpp(13): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+  InputManager.cpp
+C:\Users\Adrian\Desktop\Projekt\FlappyBird\FlappyBird\InputManager.cpp(16): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Adrian\Desktop\Projekt\FlappyBird\FlappyBird\InputManager.cpp(15): warning C4244: "argument": konwersja z "const T" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+  MainMenuState.cpp
+  Pipe.cpp
+C:\Users\Adrian\Desktop\Projekt\FlappyBird\FlappyBird\Pipe.cpp(14): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Adrian\Desktop\Projekt\FlappyBird\FlappyBird\Pipe.cpp(21): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Adrian\Desktop\Projekt\FlappyBird\FlappyBird\Pipe.cpp(21): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Adrian\Desktop\Projekt\FlappyBird\FlappyBird\Pipe.cpp(28): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Adrian\Desktop\Projekt\FlappyBird\FlappyBird\Pipe.cpp(36): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+  StateMachine.cpp
+  Trwa generowanie kodu
+  Previous IPDB not found, fall back to full compilation.
+  All 694 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  FlappyBird.vcxproj -> C:\Users\Adrian\Desktop\Projekt\FlappyBird\Release\FlappyBird.exe

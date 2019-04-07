@@ -1,0 +1,1 @@
+﻿sfml-window-d.lib(sfml-window-d-2.dll) : fatal error LNK1112: wystąpił konflikt typu maszyny modułu „x86” z typem maszyny docelowej „x64”

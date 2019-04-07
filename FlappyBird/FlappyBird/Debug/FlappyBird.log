@@ -1,0 +1,27 @@
+﻿  stdafx.cpp
+  AssetManager.cpp
+  Bird.cpp
+  Collision.cpp
+  FlappyBird.cpp
+  Game.cpp
+  GameOverState.cpp
+c:\users\adrian\dysk google\inf\semestr 2\jipp\projekt\flappybird\flappybird\gameoverstate.cpp(39): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+  GameState.cpp
+c:\users\adrian\dysk google\inf\semestr 2\jipp\projekt\flappybird\flappybird\gamestate.cpp(90): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Ground.cpp
+c:\users\adrian\dysk google\inf\semestr 2\jipp\projekt\flappybird\flappybird\ground.cpp(22): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+  HUD.cpp
+c:\users\adrian\dysk google\inf\semestr 2\jipp\projekt\flappybird\flappybird\hud.cpp(13): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+  InputManager.cpp
+c:\users\adrian\dysk google\inf\semestr 2\jipp\projekt\flappybird\flappybird\inputmanager.cpp(16): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+c:\users\adrian\dysk google\inf\semestr 2\jipp\projekt\flappybird\flappybird\inputmanager.cpp(15): warning C4244: "argument": konwersja z "const float" do "int", możliwa utrata danych
+  MainMenuState.cpp
+  Pipe.cpp
+c:\users\adrian\dysk google\inf\semestr 2\jipp\projekt\flappybird\flappybird\pipe.cpp(14): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+c:\users\adrian\dysk google\inf\semestr 2\jipp\projekt\flappybird\flappybird\pipe.cpp(21): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\adrian\dysk google\inf\semestr 2\jipp\projekt\flappybird\flappybird\pipe.cpp(21): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+c:\users\adrian\dysk google\inf\semestr 2\jipp\projekt\flappybird\flappybird\pipe.cpp(28): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+c:\users\adrian\dysk google\inf\semestr 2\jipp\projekt\flappybird\flappybird\pipe.cpp(36): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+  StateMachine.cpp
+  Generowanie kodu...
+  FlappyBird.vcxproj -> C:\Users\Adrian\Dysk Google\INF\Semestr 2\JiPP\Projekt\FlappyBird\Debug\FlappyBird.exe
